@@ -9,8 +9,8 @@ public class SceneChangeHandler : MonoBehaviour
 {
     public void ChangeScene()
     {
-        // Load the scene named "NewScene"
-        SceneManager.LoadSceneAsync("NewScene", LoadSceneMode.Single);
+        // Load the scene named "MainMenu"
+        SceneManager.LoadSceneAsync("MainMenu", LoadSceneMode.Single);
     }
 
     public void QuitGame()
