@@ -741,7 +741,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CustomizablePlatformerMovement
   maxSpeed: 5
-  jumpForce: 3
+  jumpForce: 4
   rigidbody: {fileID: 800582127}
   groundCheckCollider: {fileID: 800582126}
   groundLayer:
